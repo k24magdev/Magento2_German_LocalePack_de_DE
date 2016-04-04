@@ -1,3 +1,4 @@
+V2 4.4.16
 # Magento 2 German LocalePack de_DE
 
 Deutsches Sprachpaket für Magento 2 Community Edition
